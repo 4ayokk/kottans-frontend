@@ -34,7 +34,7 @@ UPD 1: Перша та друга теми - Всьо!
     <p>
       Якщо я буду користуватись вивченими командами, у мене буде на один мільйон менше відкритих вікон провідника. :blush:
     </p>
-    <img src="https://raw.githubusercontent.com/4ayokk/kottans-frontend/main/task_linux_cli/quiz1.png" width="700" >
+    <img src="https://raw.githubusercontent.com/4ayokk/kottans-frontend/main/task_linux_cli/quiz1.png" width="700">
     <img src="https://raw.githubusercontent.com/4ayokk/kottans-frontend/main/task_linux_cli/quiz2.png" width="700">
     <img src="https://raw.githubusercontent.com/4ayokk/kottans-frontend/main/task_linux_cli/quiz3.png" width="700">
     <img src="https://raw.githubusercontent.com/4ayokk/kottans-frontend/main/task_linux_cli/quiz4.png" width="700">
@@ -68,12 +68,22 @@ UPD 1: Перша та друга теми - Всьо!
 
 <details>
   <summary><h2>Git Collaboration</h2></summary>
+  
   З Git'ом як і з GitHab'ом познайомився ще при проходженні Git Basics.
   
   Однозначно буду використовувати й надалі
   
-  <details>
-    <summary>Скріншоти виконаних задань</summary>
+  - Скріншоти з <a href="https://learngitbranching.js.org">тренажеру</a>
+  
+  <img src="https://raw.githubusercontent.com/4ayokk/kottans-frontend/main/task_git_collaboration/t1.png" width="500">
+  <img src="https://raw.githubusercontent.com/4ayokk/kottans-frontend/main/task_git_collaboration/t2.png" width="500">
+  
+  - Скріншоти з <a href="https://www.coursera.org/learn/introduction-git-github">курсу</a>
+  
+  <img src="https://raw.githubusercontent.com/4ayokk/kottans-frontend/main/task_git_collaboration/w1.png" width="400">
+  <img src="https://raw.githubusercontent.com/4ayokk/kottans-frontend/main/task_git_collaboration/w2.png" width="400">
+  <img src="https://raw.githubusercontent.com/4ayokk/kottans-frontend/main/task_git_collaboration/w3.png" width="400">
+  <img src="https://raw.githubusercontent.com/4ayokk/kottans-frontend/main/task_git_collaboration/w4.png" width="400">
 </details>
 
 ---
