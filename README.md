@@ -28,7 +28,7 @@ UPD 1: Перша та друга теми - Всьо!
 </details>
 
 <details>
-  <summary><h2>Linux CLI and Networking</h2></summary>
+  <summary><h2>Linux CLI, and HTTP</h2></summary>
   <details>
     <summary>Скріншоти виконаних завдань з курсу <a href="https://linuxsurvival.com">Linux Survival</a></summary>
     <p>
@@ -67,8 +67,13 @@ UPD 1: Перша та друга теми - Всьо!
 </details>
 
 <details>
-<summary><h2>VCS (hello gitty), GitHub and Collaboration</h2></summary>
-To Be...
+  <summary><h2>Git Collaboration</h2></summary>
+  З Git'ом як і з GitHab'ом познайомився ще при проходженні Git Basics.
+  
+  Однозначно буду використовувати й надалі
+  
+  <details>
+    <summary>Скріншоти виконаних задань</summary>
 </details>
 
 ---
